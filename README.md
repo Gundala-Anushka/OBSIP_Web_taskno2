@@ -27,5 +27,5 @@ This stylish portfolio highlights my skills, projects, and contact information i
 ## 📬 Contact
 If you’d like to get in touch or have any feedback, feel free to connect:
 - **Name**: Anushka Gundala  
-- **Email**: your-email@example.com  
+- **Email**: gundalaanushka7@gmail.com  
 - **LinkedIn**:www.linkedin.com/in/gundala-anushka-3b9995367
